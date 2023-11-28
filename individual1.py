@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 def print_number_sum_representations(n, i=1, output=""):
     """
     Печатает все возможные представления числа n в виде суммы других натуральных чисел.
